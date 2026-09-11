@@ -1,4 +1,4 @@
-;; data/datascript-tx.edn — DataScript tx-data derived from src/ordinance/facts.cljc
+;; data/datascript-tx.edn — DataScript tx-data derived from src/ordinance/facts.cljk
 ;; `ordinance.facts/catalog` (ADR-2607141700; Wave 1b repos per ADR-2607171400
 ;; addendum 2). Same shape as the cloud-itonami-municipality-* siblings.
 ;; Do not hand-edit; regenerate from the catalog.
